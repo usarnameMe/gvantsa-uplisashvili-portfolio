@@ -1,0 +1,24 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#d38bfc" stroke-width="2">
+    <circle cx="50" cy="50" r="6" fill="#d38bfc">
+      <animate attributeName="r" from="6" to="12" begin="0s" dur="1.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.2;1" begin="0s" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="25" cy="25" r="4" fill="#d38bfc">
+      <animate attributeName="cx" values="25;75;25" begin="0s" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="25;75;25" begin="0s" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="75" cy="75" r="4" fill="#d38bfc">
+      <animate attributeName="cx" values="75;25;75" begin="0s" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="75;25;75" begin="0s" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <line x1="50" y1="50" x2="25" y2="25">
+      <animate attributeName="x2" values="25;75;25" begin="0s" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="25;75;25" begin="0s" dur="3s" repeatCount="indefinite" />
+    </line>
+    <line x1="50" y1="50" x2="75" y2="75">
+      <animate attributeName="x2" values="75;25;75" begin="0s" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="75;25;75" begin="0s" dur="3s" repeatCount="indefinite" />
+    </line>
+  </g>
+</svg>
