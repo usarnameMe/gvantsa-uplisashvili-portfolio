@@ -1,6 +1,6 @@
 # 🌟 Gvantsa Uplisashvili's Portfolio
 
-Hey there! 👋 Welcome to my portfolio repository. I'm Gvantsa (you can call me G), a React Native developer who loves creating dynamic and engaging apps. This is where I showcase some of my favorite projects, skills, and a bit about me. Feel free to explore, and I hope you enjoy what you see!
+Hey there! 👋 Welcome to my portfolio repository. I'm Gvantsa (you can call me G).
 
 ## 🌍 Live Demo
 
@@ -13,15 +13,6 @@ The portfolio is live and ready for you! Check it out here: [**gvantsa-uplisashv
 - **Responsive Design**: Built with a mobile-first approach to ensure a seamless experience on any device.
 - **Dark Mode Aesthetic**: A modern, sleek dark theme with purple accents for that professional yet cool look.
 
-## 🛠 Tech Stack
-
-Here’s what I used to build this portfolio:
-
-- **Frontend**: React + Styled Components
-- **Backend**: Node.js
-- **Deployment**: Vercel
-- **Version Control**: Git & GitHub
-- **Automation**: GitHub Actions for continuous deployment
 
 ## ⚡ Getting Started
 
