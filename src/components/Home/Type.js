@@ -37,6 +37,8 @@ function Type() {
     typeString();
   }, []);
 
+
+  
   return (
     <div style={styles.container}>
       {displayedText.map((text, idx) => (
