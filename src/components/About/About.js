@@ -18,11 +18,9 @@ function About() {
           className="quote-card-view"
           style={{ marginTop: "100px", marginBottom: "10px" }}
         >
-
-
           <Col md={4}>
             <lottie-player
-              src="https://lottie.host/8db1b010-ae0d-4932-8598-1ba19d564b4a/b7v9FQdvFD.json"  
+              src="https://lottie.host/8db1b010-ae0d-4932-8598-1ba19d564b4a/b7v9FQdvFD.json"
               background="transparent"
               speed="1"
               style={{ width: "300px", height: "300px" }}
@@ -46,8 +44,10 @@ function About() {
                 <strong className="purple">React Native</strong> and{" "}
                 <strong className="purple">Node.js</strong> and love exploring
                 new technologies that push the boundaries of web and mobile
-                development. Currently, I am diving deep into<strong className="purple"> Python </strong> and
-                scripting, fueling my interests in <strong className="purple">AI development.</strong>
+                development. Currently, I am diving deep into
+                <strong className="purple"> Python </strong> and scripting,
+                fueling my interests in{" "}
+                <strong className="purple">AI development.</strong>
                 <br />
                 <br />
                 My journey has included working as a React Native developer at
@@ -72,21 +72,23 @@ function About() {
 
           <Col
             md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px", minHeight: "100px", }}
+            style={{
+              paddingTop: "120px",
+              paddingBottom: "50px",
+              minHeight: "100px",
+            }}
             className="about-img"
           >
             <lottie-player
-              src="https://lottie.host/5df70e28-0629-4983-865d-b529cfdb6cac/TPs8KDGM34.json"  
+              src="https://lottie.host/5df70e28-0629-4983-865d-b529cfdb6cac/TPs8KDGM34.json"
               background="transparent"
               speed="1"
-              style={{ width: "300px", height: "300px", marginLeft:"130px" }}
+              style={{ width: "300px", height: "300px", marginLeft: "130px" }}
               loop
               autoplay
             ></lottie-player>
           </Col>
         </Row>
-
-
       </Container>
     </Container>
   );
