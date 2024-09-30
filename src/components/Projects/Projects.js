@@ -5,20 +5,19 @@ import ProjectCard from "./ProjectCards";
 import quiz1 from "../../Assets/Projects/quiz1.png";
 import uber1 from "../../Assets/Projects/uber1.png";
 import shop1 from "../../Assets/Projects/shop1.png";
+import userList from "../../Assets/Projects/userList.png";
 
 function Projects() {
   return (
     <Container fluid className="project-section">
       <Particle />
       <Container>
-        <h1 className="project-heading" style={{marginTop: "20px"}}>
+        <h1 className="project-heading" style={{ marginTop: "20px" }}>
           My <strong className="purple">Works</strong>
         </h1>
-        <p style={{ color: "white" }}>
-          Explore few peace from my work.
-        </p>
+        <p style={{ color: "white" }}>Explore few peace from my work.</p>
         <Row className="project-grid">
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={uber1}
               isBlog={false}
@@ -27,7 +26,7 @@ function Projects() {
               ghLink="https://github.com/usarnameMe/Uber-app"
             />
           </Col>
-        <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={shop1}
               isBlog={false}
@@ -46,10 +45,16 @@ function Projects() {
               ghLink="https://github.com/usarnameMe/QuizApp"
             />
           </Col>
-
-
-
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={userList}
+              isBlog={false}
+              title="User List Project"
+              description="A user list application built with Python and Django, including functionality for adding, deleting, and editing users."
+              ghLink="https://github.com/usarnameMe/user-list"
+              demoLink="user-list-e5rr.onrender.com"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
