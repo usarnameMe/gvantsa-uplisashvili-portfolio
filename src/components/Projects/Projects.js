@@ -52,7 +52,7 @@ function Projects() {
               title="User List Project"
               description="A user list application built with Python and Django, including functionality for adding, deleting, and editing users."
               ghLink="https://github.com/usarnameMe/user-list"
-              demoLink="user-list-e5rr.onrender.com"
+              demoLink="https://user-list-e5rr.onrender.com"
             />
           </Col>
         </Row>
