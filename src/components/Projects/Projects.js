@@ -6,6 +6,7 @@ import quiz1 from "../../Assets/Projects/quiz1.png";
 import uber1 from "../../Assets/Projects/uber1.png";
 import shop1 from "../../Assets/Projects/shop1.png";
 import userList from "../../Assets/Projects/userList.png";
+import taskManager from "../../Assets/Projects/taskManager.png"
 
 function Projects() {
   return (
@@ -53,6 +54,16 @@ function Projects() {
               description="A user list application built with Python and Django, including functionality for adding, deleting, and editing users."
               ghLink="https://github.com/usarnameMe/user-list"
               demoLink="https://user-list-e5rr.onrender.com"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={taskManager}
+              isBlog={false}
+              title="Task Manager"
+              description="A simple task management system. It allows users to create, edit, delete, and drag-and-drop tasks between different status columns."
+              ghLink="https://github.com/usarnameMe/task-manager"
+              demoLink="https://task-manager-vpqs.onrender.com/"
             />
           </Col>
         </Row>
