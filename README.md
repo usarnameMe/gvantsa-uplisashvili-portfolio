@@ -1,10 +1,11 @@
-# 🌟 Gvantsa Uplisashvili's Portfolio
+# 🌟 Portfolio
 
 Hey there! 👋 Welcome to my portfolio repository. I'm Gvantsa (you can call me G).
 
 ## 🌍 Live Demo
 
 The portfolio is live and ready for you! Check it out here: [**gvantsa-uplisashvili-portfolio.vercel.app**](https://gvantsa-uplisashvili-portfolio-866a.vercel.app). It looks much better live, I promise! 😉
+<img width="1440" alt="Screenshot 2024-10-11 at 13 22 57" src="https://github.com/user-attachments/assets/43d33a10-e6ef-410a-b792-6971966bac19">
 
 ## ✨ What to Expect
 
@@ -33,6 +34,7 @@ npm start
 
 # 5. Visit http://localhost:3000 to see the portfolio in action.
 ```
+<img width="1440" alt="Screenshot 2024-10-11 at 13 23 09" src="https://github.com/user-attachments/assets/9f03a8ef-c051-4a4d-9130-09e523d1850c">
 
 🤝 Contributing
 I’m always open to suggestions and ideas! If you find a bug or think of a cool feature, feel free to open an issue or make a pull request:
