@@ -15,25 +15,6 @@ The portfolio is live and ready for you! Check it out here: [**gvantsa-uplisashv
 - **Dark Mode Aesthetic**: A modern, sleek dark theme with purple accents for that professional yet cool look.
 
 
-## ⚡ Getting Started
-
-If you want to clone this project and play around with it, here's how you can set it up locally:
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/usarnameMe/gvantsa-uplisashvili-portfolio.git
-
-# 2. Navigate to the project directory
-cd gvantsa-uplisashvili-portfolio
-
-# 3. Install dependencies
-npm install
-
-# 4. Run the development server
-npm start
-
-# 5. Visit http://localhost:3000 to see the portfolio in action.
-```
 <img width="1440" alt="Screenshot 2024-10-11 at 13 23 09" src="https://github.com/user-attachments/assets/9f03a8ef-c051-4a4d-9130-09e523d1850c">
 
 🤝 Contributing
