@@ -1,6 +1,6 @@
 # 🌟 Portfolio
 
-Hey there! 👋 Welcome to my portfolio repository. I'm Gvantsa (you can call me G).
+Hey there! 👋 Welcome to my portfolio repository.
 
 ## 🌍 Live Demo
 
