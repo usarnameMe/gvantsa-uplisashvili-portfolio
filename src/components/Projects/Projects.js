@@ -66,6 +66,14 @@ function Projects() {
               demoLink="https://task-manager-vpqs.onrender.com/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              isBlog={false}
+              title="OpenLibrary"
+              description="A Django-based book lending service API. This project allows users to manage books, requests, and authentication using SQL as the database."
+              ghLink="https://github.com/usarnameMe/OpenLibrary"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
