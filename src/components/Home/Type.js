@@ -6,7 +6,7 @@ function Type() {
     " 👉  Mobile Developer",
     " 👉  Web Developer",
     " 👉  Freelancer",
-    " 👉  AI Enthusiast",
+    " 👉  AI Engineer",
   ]);
   const typingSpeed = 60;
   const delayBetweenStrings = 500;
