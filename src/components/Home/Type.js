@@ -5,7 +5,6 @@ function Type() {
   const stringsRef = useRef([
     " 👉  Mobile Developer",
     " 👉  Web Developer",
-    " 👉  Freelancer",
     " 👉  AI Engineer",
   ]);
   const typingSpeed = 60;
